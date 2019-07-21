@@ -1,0 +1,1 @@
+Todos os arquivos .js devem ser adicionados aqui
