@@ -1,7 +1,7 @@
 /*Menu*/
-nav ul a{
+.menu{
 	text-decoration: none;
-
+	text-decoration-color: red;
 }
 
 /*Carrossel*/
