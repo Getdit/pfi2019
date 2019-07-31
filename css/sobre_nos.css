@@ -1,0 +1,31 @@
+.circle {
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+
+.circle img {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer {
+	position: fixed;
+    bottom:0;
+    left:0;}
+
+
+.fotos{
+	display: inline-block;
+	padding: 5px;
+
+}
+
+.Nome{
+	text-align: center;
+	color: #c0b283;
+}
