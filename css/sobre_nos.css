@@ -31,3 +31,11 @@
 /*  text-align: center;*/
   margin-top: 10px;
 }
+
+header {
+  margin-bottom: 100px;
+}
+
+main{
+  margin: 5%;
+}
