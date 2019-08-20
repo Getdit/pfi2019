@@ -92,13 +92,13 @@ a:hover {
 
 
 h2 {
- 	text-align: center;
+ 	text-align: justify;
 }
 
 /*nossas ferramentas*/
 
 h2 {
- 	text-align: center;
+ 	text-align: justify;
 }
 
 
@@ -113,3 +113,19 @@ h2 {
   margin-top: 10px;
 }
 
+
+.margem{
+	padding-bottom: 5px;
+}
+
+#dados{
+	margin: 1px;
+}
+
+.ui.small.left.circular.floated.image, .ui.small.right.circular.floated.image{
+	margin-top: 25px;
+}
+
+a{
+	text-align: center;
+}
