@@ -39,3 +39,16 @@ header {
 main{
   margin: 5%;
 }
+
+
+.fotos1{
+  display: inline-block;
+  margin-right: 50px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#conteudo1, .ui.two.column.grid, #conteudo2, .ui.three.column.divided.grid{
+  margin-top: 25px;
+}
