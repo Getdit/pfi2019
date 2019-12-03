@@ -1,0 +1,3 @@
+Todos os arquivos .html devem ser adicionados aqui
+
+- Estão sendo adicionados aqui devido aos diretórios do template já estarem definidos assim
